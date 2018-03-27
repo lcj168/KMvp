@@ -6,7 +6,6 @@ import com.example.whoislcj.kotlin.model.interfaces.GetUserInfoListener
 import com.example.whoislcj.kotlin.model.interfaces.IUserInfoModel
 import com.example.whoislcj.kotlin.presenter.interfaces.ILoadDataPresenter
 import com.example.whoislcj.kotlin.view.interfaces.ILoadDataView
-import com.example.whoislcj.testproject.Person
 
 /**
  * Created by whoislcj on 2018/3/20.

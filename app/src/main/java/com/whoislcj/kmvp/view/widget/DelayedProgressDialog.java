@@ -14,7 +14,8 @@ import android.support.v7.app.AlertDialog;
 import android.view.LayoutInflater;
 import android.widget.ProgressBar;
 
-import com.example.whoislcj.testproject.R;
+import com.whoislcj.kmvp.R;
+
 
 /*
  * Copyright 2017 Qi Li

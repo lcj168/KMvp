@@ -8,10 +8,10 @@ import com.example.whoislcj.kotlin.model.interfaces.IUserInfoModel
 /**
  * Created by whoislcj on 2018/3/20.
  */
-class UserInfoModelImpl : IUserInfoModel {
+class UserInfoModelImpl : IUserInfoModel<UserInfo> {
 
 
-    override fun getUserInfo(listener: GetUserInfoListener) {
+    override fun getUserInfo(listener: GetUserInfoListener<UserInfo>) {
         Handler().postDelayed({
             val userInfo = UserInfo();
             userInfo.age = 28;

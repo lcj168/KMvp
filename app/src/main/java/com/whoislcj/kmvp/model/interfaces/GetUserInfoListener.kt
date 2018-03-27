@@ -5,7 +5,7 @@ import com.example.whoislcj.kotlin.model.bean.UserInfo
 /**
  * Created by whoislcj on 2018/3/20.
  */
-public interface GetUserInfoListener {
+public interface GetUserInfoListener<T> {
 
-    fun onGetUserInfo(userInfo: UserInfo );
+    fun onGetUserInfo(result: T );
 }

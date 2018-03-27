@@ -7,9 +7,9 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.widget.TextView
-import com.example.whoislcj.kotlin.model.bean.UserInfo
-import com.example.whoislcj.kotlin.presenter.impl.LoadDataPresenter
-import com.example.whoislcj.kotlin.view.interfaces.ILoadDataView
+import com.whoislcj.kmvp.model.bean.UserInfo
+import com.whoislcj.kmvp.presenter.impl.LoadDataPresenter
+import com.whoislcj.kmvp.view.interfaces.ILoadDataView
 import com.whoislcj.kmvp.R
 import com.whoislcj.kmvp.view.widget.DelayedProgressDialog
 

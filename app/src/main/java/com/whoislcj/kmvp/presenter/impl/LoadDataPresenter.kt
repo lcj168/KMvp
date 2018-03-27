@@ -1,11 +1,11 @@
-package com.example.whoislcj.kotlin.presenter.impl
+package com.whoislcj.kmvp.presenter.impl
 
-import com.example.whoislcj.kotlin.model.bean.UserInfo
+import com.whoislcj.kmvp.model.bean.UserInfo
 import com.example.whoislcj.kotlin.model.impl.UserInfoModelImpl
-import com.example.whoislcj.kotlin.model.interfaces.GetUserInfoListener
-import com.example.whoislcj.kotlin.model.interfaces.IUserInfoModel
-import com.example.whoislcj.kotlin.presenter.interfaces.ILoadDataPresenter
-import com.example.whoislcj.kotlin.view.interfaces.ILoadDataView
+import com.whoislcj.kmvp.model.interfaces.GetUserInfoListener
+import com.whoislcj.kmvp.model.interfaces.IUserInfoModel
+import com.whoislcj.kmvp.presenter.interfaces.ILoadDataPresenter
+import com.whoislcj.kmvp.view.interfaces.ILoadDataView
 
 /**
  * Created by whoislcj on 2018/3/20.

@@ -1,4 +1,4 @@
-package com.example.whoislcj.kotlin.presenter.interfaces
+package com.whoislcj.kmvp.presenter.interfaces
 
 /**
  * Created by whoislcj on 2018/3/20.

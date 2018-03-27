@@ -1,9 +1,9 @@
 package com.example.whoislcj.kotlin.model.impl
 
 import android.os.Handler
-import com.example.whoislcj.kotlin.model.bean.UserInfo
-import com.example.whoislcj.kotlin.model.interfaces.GetUserInfoListener
-import com.example.whoislcj.kotlin.model.interfaces.IUserInfoModel
+import com.whoislcj.kmvp.model.bean.UserInfo
+import com.whoislcj.kmvp.model.interfaces.GetUserInfoListener
+import com.whoislcj.kmvp.model.interfaces.IUserInfoModel
 
 /**
  * Created by whoislcj on 2018/3/20.

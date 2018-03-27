@@ -1,4 +1,4 @@
-package com.example.whoislcj.kotlin.model.bean
+package com.whoislcj.kmvp.model.bean
 
 /**
  * Created by whoislcj on 2018/3/20.
